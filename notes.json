@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1672531200000,
+    "content": "This is a sample note. It contains some important information that I want to remember later. Notes can be quite long and contain multiple paragraphs of text.",
+    "creationDate": "2023-01-01T10:00:00Z",
+    "modificationDate": "2023-01-01T10:00:00Z"
+  },
+  {
+    "id": 1672617600000,
+    "content": "Another example note with different content. This one is shorter but still contains useful information.",
+    "creationDate": "2023-01-02T10:00:00Z",
+    "modificationDate": "2023-01-02T10:00:00Z"
+  },
+  {
+    "id": 1672704000000,
+    "content": "Shopping list:\n- Milk\n- Eggs\n- Bread\n- Coffee\n- Apples",
+    "creationDate": "2023-01-03T10:00:00Z",
+    "modificationDate": "2023-01-03T10:00:00Z"
+  }
+]
